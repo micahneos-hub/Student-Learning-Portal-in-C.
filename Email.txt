@@ -1,0 +1,18 @@
+T102942 S876543 DUCK OFF BRO
+T102942 S876543 OIII WHY AM I RECEIVING YOUR LETTERS.
+T102942 S876543 Yeah, clearly, he doesn't know that when he sets the index to a default when there are no messages in inbox, that it would just give all the emails lol.
+T102942 S111215 Hey... what's up? Does my ID show correctly?
+S876543 T102942 I have no idea, he's a terrible coder
+S876543 T101111 Wait, sorry, didn't mean to send this...
+S102938 T102942 Hey Lyra, how've you been?
+S876544 T101111 Yo, I think something's wrong with your ID...
+S876544 T101111 Yo, it shows an id below you, S876543
+S876544 T101111 I keep seeing these things wrong...
+S876544 T101111 It turns out, structures are super easy to use to fix this issue, now everyone should have proper emails.
+S111215 T102942 Test.S111215 T102942 no, it doesnt. I think it's because it doesn't correctly put your... NAME OASDFHASHDFASHLDJ OH MY GOD NO WONDXER.
+S111215 T102942 Yes it does, finally, check if other classes has the ability to do this.
+T101111 S252668 Hello! What's up my bro
+S102938 T102942 Hey, what's going on my pookie doll. UHH DON'T QUOTE ME.
+T102942 S102938 Is the email system working or not?
+S556304 T123457 How are you? I see you're struggling a bit at science!!!!
+T123457 S556304 go away.
